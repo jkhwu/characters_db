@@ -1,0 +1,21 @@
+[ {
+    "routeName": "dumbledore",
+    "name": "Albus Dumbledore",
+    "role": "Headmaster",
+    "age": 900,
+    "forcePoints": 2000
+  },
+  {
+    "routeName": "voldemort",
+    "name": "Voldemort",
+    "role": "Dark Lord",
+    "age": 80,
+    "forcePoints": 1350
+  },
+  {
+    "routeName": "hermione",
+    "name": "Hermione Granger",
+    "role": "Minister of Magic",
+    "age": 40,
+    "forcePoints": 1200
+  }]
